@@ -1,8 +1,12 @@
 # Sushi-Store__landing-page
 
-A visually stunning and animated landing page for a sushi store. Built with HTML &amp; CSS :)
+ 🙌 A visually stunning and animated landing page for a sushi store. Built with HTML &amp; CSS :)
 
- 🚀 I built this project in the context of practicing HTML & CSS , It was a tutorial video on JavaScript Mastery youtube channel
+ 📍 I built this project in the context of practicing HTML & CSS , It was a tutorial video on JavaScript Mastery youtube channel
+ 
+ 🚀 Here is the tutorial link : https://www.youtube.com/watch?v=QRrPE9aj3wI
+
+ 
 
 ## New things I learnt in this tutorial ☺:
 
