@@ -6,6 +6,6 @@ A visually stunning and animated landing page for a sushi store. Built with HTML
 
 ## New things I learnt in this tutorial ☺:
 
-  1.  BEM methodology <br/>
-  2 . Seeting up a project using vite <br/>
-  3. Making a good project structure <br/>
+  1.BEM methodology <br/>
+  2.Seeting up a project using vite <br/>
+  3.Making a good project structure <br/>
