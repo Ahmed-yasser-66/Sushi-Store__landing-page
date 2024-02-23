@@ -5,6 +5,6 @@ I built this project in the context of practicing HTML & CSS , It was a tutorial
 
 ## New things I learnt in this tutorial :
 
- # 1. BEM methodology
- # 2 . Seeting up a project using vite
- # 3. Making a good project structure
+  1. BEM methodology
+  2 . Seeting up a project using vite
+  3. Making a good project structure
